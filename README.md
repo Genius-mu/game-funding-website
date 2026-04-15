@@ -130,7 +130,7 @@ This project is [MIT](LICENSE) licensed - free to use, modify, and distribute.
 
 ---
 
-**Made with ❤️ for indie game developers**  
+**Made with ❤️ for game developers**  
 _Pixel Pledge - Where game ideas meet community funding_
 
 ⭐ **Star us on GitHub if you find it useful!**
