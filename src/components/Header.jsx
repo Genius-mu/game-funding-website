@@ -9,27 +9,22 @@ const Header = () => {
     {
       label: "Home",
       href: "/",
-      icon: "🏠",
     },
     {
       label: "How it works",
       href: "/how-it-works",
-      icon: "⚙️",
     },
     {
       label: "Search",
       href: "/search",
-      icon: "🔍",
     },
     {
       label: "Follow campaign",
       href: "/follow-campaign",
-      icon: "❤️",
     },
     {
       label: "About",
       href: "/about",
-      icon: "ℹ️",
     },
   ];
 
@@ -59,9 +54,6 @@ const Header = () => {
                     className="relative px-4 py-2 text-sm font-medium text-slate-700 hover:text-slate-900 transition-all duration-300 group rounded-full hover:bg-white/60"
                   >
                     <span className="flex items-center gap-1.5">
-                      <span className="text-base opacity-0 group-hover:opacity-100 transition-opacity">
-                        {item.icon}
-                      </span>
                       <span>{item.label}</span>
                     </span>
 
